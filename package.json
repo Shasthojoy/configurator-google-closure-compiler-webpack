@@ -1,0 +1,27 @@
+{
+  "name": "configurator-google-closure-compiler-webpack",
+  "version": "0.0.1",
+  "description": "google-closure-compiler-webpack configurator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shasthojoy/configurator-google-closure-compiler-webpack.git"
+  },
+  "keywords": [
+    "closure",
+    "configurator",
+    "google",
+    "compiler",
+    "airbender",
+    "shasthojoy"
+  ],
+  "author": "Waker Mahmud <admin@shasthojoy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shasthojoy/configurator-google-closure-compiler-webpack/issues"
+  },
+  "homepage": "https://github.com/Shasthojoy/configurator-google-closure-compiler-webpack#readme"
+}
